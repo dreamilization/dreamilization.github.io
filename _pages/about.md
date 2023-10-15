@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am a PhD student in the [Department of Computer Science at Purdue](https://www.cs.purdue.edu/)
+I am currently a second-year PhD student in the [Department of Computer Science](https://www.cs.purdue.edu/) at Purdue University. My research is centered on Natural Language Processing, Representation Learning, and Multimodal Large Language Models. Specifically, I am enthusiastic about using multimodal information and social context to enhance the comprehension of conversational dynamics by large language models.
 
-I am interested in Natural Language Processing and very fortunate to be advised by [Prof. Dan Goldwasser](https://www.cs.purdue.edu/homes/dgoldwas/)
+I am incredibly privileged to have the guidance and mentorship of [Prof. Dan Goldwasser](https://www.cs.purdue.edu/homes/dgoldwas/) in this exciting journey.
 
 Email: [wu1491 AT purdue DOT edu](mailto:wu1491@purdue.edu)
 
